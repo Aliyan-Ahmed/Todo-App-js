@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+.btndelete {
+  background-color: blueviolet;
+}
+.btnedit {
+  background-color: aqua;
+}
+
+#list {
+  list-style: none;
+}
